@@ -6,3 +6,6 @@ Conteúdo relacionado ao curso "Como realizar consultas de maneira simples no am
 
 ## Fork do projeto original <br/>
 Disponível em [GitLab](https://gitlab.com/rosacarla/hive-bootcamp-dio).
+
+## Licença
+[MIT](https://choosealicense.com/licenses/mit/)
