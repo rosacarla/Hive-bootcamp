@@ -1,5 +1,5 @@
 # Hive - bootcamp DIO
-Este repositório foi copiado para realizar atividades do bootcamp Cognizant Cloud Data Engineer, promovido pela Digital Innovation One Inc. 
+Este repositório foi copiado para realizar atividades do bootcamp Cognizant Cloud Data Engineer #2, promovido pela Digital Innovation One Inc. 
 
 ## Repositorio principal
 Conteúdo relacionado ao curso "Como realizar consultas de maneira simples no ambiente complexo de Big Data com Hive e Impala", cujos registros sobre as aulas constam no repositório do GitHub: [DIO Cloud Data Engineer](https://github.com/rosacarla/DIO-cloud-data-engineer).
